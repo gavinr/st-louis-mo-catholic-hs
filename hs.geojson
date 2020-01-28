@@ -1,0 +1,410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barat Academy",
+                "url": "http://www.baratacademy.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.735267,
+                    38.733256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bishop DuBourg High School",
+                "url": "http://www.bishopdubourg.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.293993,
+                    38.581949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardinal Ritter College Prep",
+                "url": "http://www.cardinalritterprep.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.234422,
+                    38.641965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chaminade College Preparatory School",
+                "url": "http://www.chaminade-stl.org",
+                "2019_enrollment": 573
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.405450,
+                    38.650630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Christian Brothers College High School",
+                "url": "http://www.cbchs.org",
+                "2019_enrollment": 812
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.459430,
+                    38.639065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cor Jesu Academy",
+                "url": "http://www.corjesu.org",
+                "2019_enrollment": 560
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.344840,
+                    38.548062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DeSmet Jesuit High School",
+                "url": "http://www.desmet.org",
+                "2019_enrollment": 672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.443341,
+                    38.660151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duchesne High School",
+                "url": "http://www.duchesne-hs.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.500913,
+                    38.796766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Incarnate Word Academy",
+                "url": "http://www.iwacademy.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.313315,
+                    38.699818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nerinx Hall High School",
+                "url": "http://www.nerinxhs.org",
+                "2019_enrollment": 514
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.342628,
+                    38.591218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Notre Dame High School",
+                "url": "http://www.ndhs.net",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.272208,
+                    38.524266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosati-Kain High School",
+                "url": "http://www.rosati-kain.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.253799,
+                    38.641613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Dominic High School",
+                "url": "http://www.stdominichs.org",
+                "2019_enrollment": 748
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.721556,
+                    38.804336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Elizabeth Academy",
+                "url": "http://seahs.org/",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.237797,
+                    38.602165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Francis Borgia Regional High School",
+                "url": "http://www.borgia.com",
+                "2019_enrollment": 506
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.025696,
+                    38.552121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. John Vianney High School",
+                "url": "http://www.vianney.com",
+                "2019_enrollment": 554
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.406992,
+                    38.560800
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Joseph's Academy",
+                "url": "http://www.stjosephacademy.org",
+                "2019_enrollment": 483
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.405927,
+                    38.625226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Louis Priory School",
+                "url": "http://www.priory.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.482346,
+                    38.648228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Louis University High School",
+                "url": "http://www.sluh.org",
+                "2019_enrollment": 966
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.266258,
+                    38.628954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Mary's High School",
+                "url": "http://www.stmaryshs.com",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.249136,
+                    38.574782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Pius X High School",
+                "url": "http://www.stpius.com",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.395240,
+                    38.193828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Vincent High School",
+                "url": "http://www.svdepaul.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.874081,
+                    37.723869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinity Catholic High School",
+                "url": "http://www.trinitycatholichigh.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.223495,
+                    38.785684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ursuline Academy",
+                "url": "http://www.ursulinestl.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.385517,
+                    38.576940
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valle Catholic High School",
+                "url": "http://www.valleschools.org/",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.047799,
+                    37.979856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villa Duchesne and Oak Hill School",
+                "url": "http://www.vdoh.org",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.415337,
+                    38.644341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Visitation Academy",
+                "url": "http://www.visitationacademy.org/",
+                "2019_enrollment": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.443515,
+                    38.634320
+                ]
+            }
+        }
+    ]
+}

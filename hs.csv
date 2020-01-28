@@ -1,29 +1,28 @@
-LAT,LNG,TITLE
-38.733256,-90.735267,"Barat Academy"
-38.581949,-90.293993,"Bishop DuBourg High School"
-38.641965,-90.234422,"Cardinal Ritter College Prep"
-38.650630,-90.405450,"Chaminade College Preparatory School"
-38.639065,-90.459430,"Christian Brothers College High School"
-38.548062,-90.344840,"Cor Jesu Academy"
-38.660151,-90.443341,"DeSmet Jesuit High School"
-38.796766,-90.500913,"Duchesne High School"
-38.699818,-90.313315,"Incarnate Word Academy"
-38.602046,-90.508402,"John F. Kennedy Catholic High School"
-38.591218,-90.342628,"Nerinx Hall High School"
-38.524266,-90.272208,"Notre Dame High School"
-38.641613,-90.253799,"Rosati-Kain High School"
-38.804336,-90.721556,"St. Dominic High School"
-38.602165,-90.237797,"St. Elizabeth Academy"
-38.552121,-91.025696,"St. Francis Borgia Regional High School"
-38.560800,-90.406992,"St. John Vianney High School"
-38.625226,-90.405927,"St. Joseph's Academy"
-38.648228,-90.482346,"St. Louis Priory School"
-38.628954,-90.266258,"St. Louis University High School"
-38.574782,-90.249136,"St. Mary's High School"
-38.193828,-90.395240,"St. Pius X High School"
-37.723869,-89.874081,"St. Vincent High School"
-38.785684,-90.223495,"Trinity Catholic High School"
-38.576940,-90.385517,"Ursuline Academy"
-37.979856,-90.047799,"Valle Catholic High School"
-38.644341,-90.415337,"Villa Duchesne and Oak Hill School"
-38.634320,-90.443515,"Visitation Academy"
+latitude,longitude,altitude,geometry,name,url,2019_enrollment
+38.733256,-90.735267,,Point,Barat Academy,http://www.baratacademy.org,0
+38.581949,-90.293993,,Point,Bishop DuBourg High School,http://www.bishopdubourg.org,0
+38.641965,-90.234422,,Point,Cardinal Ritter College Prep,http://www.cardinalritterprep.org,0
+38.65063,-90.40545,,Point,Chaminade College Preparatory School,http://www.chaminade-stl.org,573
+38.639065,-90.45943,,Point,Christian Brothers College High School,http://www.cbchs.org,812
+38.548062,-90.34484,,Point,Cor Jesu Academy,http://www.corjesu.org,560
+38.660151,-90.443341,,Point,DeSmet Jesuit High School,http://www.desmet.org,672
+38.796766,-90.500913,,Point,Duchesne High School,http://www.duchesne-hs.org,0
+38.699818,-90.313315,,Point,Incarnate Word Academy,http://www.iwacademy.org,0
+38.591218,-90.342628,,Point,Nerinx Hall High School,http://www.nerinxhs.org,514
+38.524266,-90.272208,,Point,Notre Dame High School,http://www.ndhs.net,0
+38.641613,-90.253799,,Point,Rosati-Kain High School,http://www.rosati-kain.org,0
+38.804336,-90.721556,,Point,St. Dominic High School,http://www.stdominichs.org,748
+38.602165,-90.237797,,Point,St. Elizabeth Academy,http://seahs.org/,0
+38.552121,-91.025696,,Point,St. Francis Borgia Regional High School,http://www.borgia.com,506
+38.5608,-90.406992,,Point,St. John Vianney High School,http://www.vianney.com,554
+38.625226,-90.405927,,Point,St. Joseph's Academy,http://www.stjosephacademy.org,483
+38.648228,-90.482346,,Point,St. Louis Priory School,http://www.priory.org,0
+38.628954,-90.266258,,Point,St. Louis University High School,http://www.sluh.org,966
+38.574782,-90.249136,,Point,St. Mary's High School,http://www.stmaryshs.com,0
+38.193828,-90.39524,,Point,St. Pius X High School,http://www.stpius.com,0
+37.723869,-89.874081,,Point,St. Vincent High School,http://www.svdepaul.org,0
+38.785684,-90.223495,,Point,Trinity Catholic High School,http://www.trinitycatholichigh.org,0
+38.57694,-90.385517,,Point,Ursuline Academy,http://www.ursulinestl.org,0
+37.979856,-90.047799,,Point,Valle Catholic High School,http://www.valleschools.org/,0
+38.644341,-90.415337,,Point,Villa Duchesne and Oak Hill School,http://www.vdoh.org,0
+38.63432,-90.443515,,Point,Visitation Academy,http://www.visitationacademy.org/,0
