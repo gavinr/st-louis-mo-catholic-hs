@@ -1,6 +1,6 @@
 # St. Louis, MO Catholic High Schools
 
-_Description: Data in JSON form of the St. Louis, MO Catholic High Schools_
+_Description: Data in GeoJSON and CSV of the St. Louis, MO Catholic High Schools_
 
 ## Map
 
